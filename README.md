@@ -13,5 +13,5 @@ The goal of this project is to build a command line application that will ask fo
 ### Evaluation
 * Is the number even or odd? Print the result.
 * Is the number a prime number or a perfect number (see previous exercises)?  If not, find the next prime / perfect number.
-* Print the Fibonacci sequence of the number.
+* Print all members of the Fibonacci sequence before that number.
 * Print the Factorials of the number.
